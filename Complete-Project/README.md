@@ -1,7 +1,7 @@
-# EduTrack – Student Management System
+# EduTrack – Student Management and rank System
 
 ## Project Overview
-EduTrack is a C++-based Student Management System developed as part of our Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP) project. It provides basic student record management, searching, sorting, ranking, academic reporting, and file-handling functionality.
+EduTrack is a C++-based Student Management System developed as part of our Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOPS) project. It provides basic student record management, searching, sorting, ranking, academic reporting, and file-handling functionality.
 
 ## Features
 - Student record management
